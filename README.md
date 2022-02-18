@@ -1,5 +1,5 @@
 # Agenda
-Primer proyecto realizado con PHP.
+Primer proyecto realizado con PHP. CSS y código en el mismo documento.
 Realizado de dos maneras diferentes para probar diferentes tipos de array.
 Agenda con nombre y teléfono guardando los datos en el código. 
 
